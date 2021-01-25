@@ -37,5 +37,9 @@ There are three forms of ERDs: conceptual, logical, and physical. The creation o
 
 
 Creation of Retirement Titles table
+
 ![Retirement Titles](Resources/Retirement_Titles.png)
 
+Creation of Unique Titles table
+
+![Unique Titles](Resources/Unique_Titles.png)
