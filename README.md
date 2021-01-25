@@ -30,4 +30,12 @@ For more about PostgreSQL, visit:
 - Practice using different joins to create new tables in pgAdmin.
 
 ## ERD Creation and logistics
+
+There are three forms of ERDs: conceptual, logical, and physical. The creation of a flowchart helps us visualize and efficiently map out how our database is structured.
+
 ![ERD Creation](Resources/QuickDBD.png)
+
+
+Creation of Retirement Titles table
+![Retirement Titles](Resources/Retirement_Titles.png)
+
