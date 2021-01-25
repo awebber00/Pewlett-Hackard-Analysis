@@ -30,4 +30,4 @@ For more about PostgreSQL, visit:
 - Practice using different joins to create new tables in pgAdmin.
 
 ## ERD Creation and logistics
-![ERD Creation](Resources/Type_Summary_Data_Frame.png)
+![ERD Creation](Resources/QuickDBD.png)
