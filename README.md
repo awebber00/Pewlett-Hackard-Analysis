@@ -36,6 +36,10 @@ There are three forms of ERDs: conceptual, logical, and physical. The creation o
 ![ERD Creation](Resources/QuickDBD.png)
 
 
+
+## Challenge Summary
+
+Using the ERD we created in this module with Bobby as a reference and our knowledge of SQL queries and other information gathered, we ultimately created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965. 
 Creation of Retirement Titles table
 
 ![Retirement Titles](Resources/Retirement_Titles.png)
@@ -47,3 +51,8 @@ Creation of Unique Titles table
 Determining Who Is Eligible For The Company's Mentorship Program
 
 ![Mentorship Eligibility](Resources/Mentorship_Eligibility.png)
+
+
+## Challenge Conclusion and Objective Results
+
+The creation of a table that displayed what employees are eligible to participate in the company's mentorship program concluded our analysis and assisted us in solving the problem of the upcoming "silver tsunami" and thus aided Bobby's manager in future proofing Pewlett-Hackard.
