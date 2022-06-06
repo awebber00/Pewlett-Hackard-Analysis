@@ -59,4 +59,4 @@ Using the ERD we created in this module with Bobby as a reference and our knowle
 
 The creation of a table that displayed what employees are eligible to participate in the company's mentorship program concluded our analysis and assisted us in solving the problem of the upcoming "silver tsunami" and thus aided Bobby's manager in future proofing Pewlett-Hackard.
 
-* Note: All images that are screen shots are mine. All other photos are sources from Google Images.
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
