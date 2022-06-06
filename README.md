@@ -29,6 +29,7 @@ For more about PostgreSQL, visit:
 - Import and export large CSV files.
 - Practice using different joins to create new tables in pgAdmin.
 
+* Note: All images that are screen shots are mine. All other photos are sources from Google Images.
 ## ERD Creation and logistics
 
 There are three forms of ERDs: conceptual, logical, and physical. The creation of a flowchart helps us visualize and efficiently map out how our database is structured.
